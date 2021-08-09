@@ -28,7 +28,7 @@
  */
 
 :root {
-    --theme-red: #ff00ea;
+    --theme-red: #e56d75;
     --theme-blue: #2960f7;
     --theme-green: #8cc63f;
     --theme-orange: #fd7e14;
@@ -337,7 +337,7 @@ a:hover, a:active {
 }
 
 .bg-theme-red {
-    background-color: #ff00ea !important;
+    background-color: #e56d75 !important;
 }
 
 .bg-theme-blue {
@@ -357,7 +357,7 @@ a:hover, a:active {
 }
 
 .fg-theme-red {
-    color: #ff00ea !important;
+    color: #e56d75 !important;
 }
 
 .fg-theme-blue {
@@ -1118,15 +1118,15 @@ a:hover, a:active {
 
 /* Theme red */
 .theme-red .bg-theme {
-    background-color: #ff00ea !important;
+    background-color: #e56d75 !important;
 }
 
 .theme-red .fg-theme {
-    color: #ff00ea !important;
+    color: #e56d75 !important;
 }
 
 .theme-red .btn-theme {
-    background-color: #ff00ea;
+    background-color: #e56d75;
     color: #fff;
 }
 
@@ -1136,27 +1136,27 @@ a:hover, a:active {
 }
 
 .theme-red .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ff00ea;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #e56d75;
 }
 
 .theme-red .btn-theme-outline {
-    color: #ff00ea;
-    box-shadow: 0 0 0 2px #ff00ea;
+    color: #e56d75;
+    box-shadow: 0 0 0 2px #e56d75;
 }
 
 .theme-red .btn-theme-outline:hover {
-    background-color: #ff00ea;
+    background-color: #e56d75;
     color: #fff;
 }
 
 .theme-red .btn-theme-outline:focus {
-    background-color: #ff00ea;
+    background-color: #e56d75;
     color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ff00ea;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #e56d75;
 }
 
 .theme-red .btn-fab {
-    background-color: #ff00ea;
+    background-color: #e56d75;
     color: #fff;
 }
 
@@ -1166,15 +1166,15 @@ a:hover, a:active {
 }
 
 .theme-red .progress {
-    box-shadow: 0 0 0 2px #ff00ea;
+    box-shadow: 0 0 0 2px #e56d75;
 }
 
 .theme-red .progress-bar {
-    background-color: #ff00ea;
+    background-color: #e56d75;
 }
 
 .theme-red .theme-list li::before {
-    border-color: #ff00ea;
+    border-color: #e56d75;
 }
 
 

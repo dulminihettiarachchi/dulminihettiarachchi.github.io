@@ -114,7 +114,7 @@
 .page-home .badge {
   padding: 16px 24px;
   background-color: rgba(239, 56, 36, 0.15);
-  color: #ff00ea;
+  color: #e56d75;
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -401,7 +401,7 @@
 
 .post-grid .post-category {
   font-weight: 500;
-  color: #ff00ea;
+  color: #e56d75;
   text-decoration: none;
 }
 
@@ -498,27 +498,27 @@
 /* Theme Red */
 .theme-red .badge-subhead {
   background-color: rgba(239, 56, 36, 0.15);
-  color: #ff00ea;
+  color: #e56d75;
 }
 
 .theme-red .filterable-button .btn.selected,
 .theme-red .filterable-button .btn:focus {
-  background-color: #ff00ea;
+  background-color: #e56d75;
   color: #fff;
-  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #ff00ea;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #e56d75;
 }
 
 .theme-red .page-about .img-place::before {
-  border-color: #ff00ea;
+  border-color: #e56d75;
 }
 
 .theme-red .timeline li:first-child .title {
-  background-color: #ff00ea;
+  background-color: #e56d75;
 }
 
 .theme-red .timeline li:first-child::before {
-  background-color: #ff00ea;
-  box-shadow: 0 0 0 2px #ff00ea;
+  background-color: #e56d75;
+  box-shadow: 0 0 0 2px #e56d75;
 }
 
 /* Theme Blue */
