@@ -13,27 +13,24 @@
         fill: url(#linear-gradient-3);
       }
     </style>
-    <linearGradient id="linear-gradient" x1="113.48" y1="-16300.39" x2="113.48" y2="-15998.98" gradientTransform="matrix(1, 0, 0, -1, 0, -15870)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#c41e51"/>
-      <stop offset="0.04" stop-color="#be1c4e"/>
-      <stop offset="0.32" stop-color="#99113c"/>
-      <stop offset="0.59" stop-color="#7e0930"/>
-      <stop offset="0.82" stop-color="#6e0428"/>
-      <stop offset="1" stop-color="#680225"/>
-    </linearGradient>
-    <linearGradient id="linear-gradient-2" x1="398.52" y1="-15891.87" x2="398.52" y2="-16231.21" xlink:href="#linear-gradient"/>
-    <linearGradient id="linear-gradient-3" x1="435.32" y1="-134.04" x2="435.32" y2="475.46" gradientTransform="translate(223.94 -327.56) rotate(45)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="401.51" y1="-16233.83" x2="91.26" y2="-15923.58" gradientTransform="matrix(1, 0, 0, -1, 0, -15870)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f58b1f"/>
       <stop offset="0.49" stop-color="#ed6723"/>
       <stop offset="1" stop-color="#ee3e30"/>
     </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-16.66" y1="-15926.82" x2="442.85" y2="-16250.52" gradientTransform="matrix(1, 0, 0, -1, 0, -15870)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c41e51"/>
+      <stop offset="0.17" stop-color="#b41d4a"/>
+      <stop offset="0.43" stop-color="#a21b43"/>
+      <stop offset="0.7" stop-color="#971a3e"/>
+      <stop offset="1" stop-color="#931a3d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="258.49" y1="-16214.63" x2="258.49" y2="-16070.6" xlink:href="#linear-gradient-2"/>
   </defs>
-  <title>Artboard 6</title>
+  <title>Artboard 2</title>
   <g id="_Group_" data-name="&lt;Group&gt;">
-    <g id="_Group_2" data-name="&lt;Group&gt;">
-      <polygon id="_Path_" data-name="&lt;Path&gt;" class="cls-1" points="18.46 122.52 18.46 256 18.46 389.48 208.49 389.48 208.49 256 208.49 122.52 18.46 122.52"/>
-      <polygon id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" points="303.51 122.52 303.51 256 303.51 389.48 493.54 389.48 493.54 256 493.54 122.52 303.51 122.52"/>
-      <polygon id="_Path_3" data-name="&lt;Path&gt;" class="cls-3" points="303.51 122.52 18.46 389.48 209.75 389.48 304.14 295.1 493.54 122.52 303.51 122.52"/>
-    </g>
+    <path id="_Path_" data-name="&lt;Path&gt;" class="cls-1" d="M384.64,89.68a182,182,0,0,0-279.28,26.59A140.53,140.53,0,0,1,343.93,264.32a98.42,98.42,0,0,1-9.69,15,141.32,141.32,0,0,1-24.32,25.42L256,358.66l-58.47,58.47L256,475.61,384.64,347A181.93,181.93,0,0,0,384.64,89.68Z"/>
+    <path id="_Path_2" data-name="&lt;Path&gt;" class="cls-2" d="M361.85,195.67a140.53,140.53,0,0,0-256.48-79.41l-1.06,1.56c-1.05,1.58-2.08,3.17-3.07,4.79L101,123a182,182,0,0,0,26.34,224L168,387.57l58.47-58.47-40.61-40.61a99.23,99.23,0,1,1,158.11-24.17A139.87,139.87,0,0,0,361.85,195.67Z"/>
+    <path id="_Path_3" data-name="&lt;Path&gt;" class="cls-3" d="M320.52,220.82a62.06,62.06,0,1,1-6.66-27.94A61.24,61.24,0,0,1,320.52,220.82Z"/>
   </g>
 </svg>
